@@ -462,10 +462,6 @@ footer ul .fa-hands-helping {
     animation-delay: 3s;
 } 
   
-.meals .last-line span {
-    transition: transform .3s;
-}
-  
 .meals:hover .last-line span {
     transform: translateX(-50px);
 }
