@@ -590,7 +590,7 @@ footer ul .fa-hands-helping {
       margin: 0;
       display: flex;
       justify-content: flex-end;
-      align-items: baseline;
+      align-items: center;
     }
 }
   
@@ -599,7 +599,7 @@ footer ul .fa-hands-helping {
       gap: 7px;
       flex-direction: row;
       height: 114px;
-      align-items: center;
+      align-items: end;
     }
 }
 
