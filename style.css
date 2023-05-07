@@ -206,7 +206,6 @@ a {
 @media screen and (min-width: 991px) {
     .operation-steps {
         display: flex;
-        justify-content: space-between;
         margin-right: 207px;
         margin-left: 192px;
     }
