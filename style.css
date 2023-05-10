@@ -404,6 +404,9 @@ footer ul .fa-hands-helping {
     margin-top: -30px;
     margin-bottom: 66px;
 }
+h2 {
+    font-size: 18px;
+}
       
 .menu-title {
     font-family: Shrikhand, sans-serif;
@@ -417,6 +420,7 @@ footer ul .fa-hands-helping {
 .starter-title, .dish-title, .dessert-title {
     margin-left: 13px;
     font-size: 16px;
+     text-transform: uppercase;
 }
 
 .line {
