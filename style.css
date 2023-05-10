@@ -316,6 +316,7 @@ h4 {
     font-size: 18px;
     margin-left: 18.74px;
     margin-top: 16px;
+    width: 66%;
 }
 
 figcaption p {
@@ -404,6 +405,7 @@ footer ul .fa-hands-helping {
     margin-top: -30px;
     margin-bottom: 66px;
 }
+
 h2 {
     font-size: 18px;
 }
@@ -490,7 +492,7 @@ h2 {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    
+    width: 66%;
 }
       
 .last-line span {
